@@ -1,4 +1,4 @@
-apiVersion: v1
+apiVersion: v1 #tp
 kind: Service
 metadata:
   name: loadbalancer-svc
